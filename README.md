@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @giannycabral
+- 👀 I’m 28 years old ...
+- 🌱 Quality Management Student ...
+- 💞️ Learning More about this new world...
+
+<!---
+giannycabral/giannycabral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
