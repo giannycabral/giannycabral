@@ -32,10 +32,10 @@ Oiee, tenho 28 anos, sou de Cosmopólis/SP. Estou cursando Gestão da Qualidade 
 
 ### ⭐  Dev em Desenvolvimento:
 
-- 🌱 Atualmente estou aprendendo a desenvolver páginas web, HTML,CSS e JavaScrip
+- 🌱 Atualmente estou aprendendo as tecnologias HTML, CSS, JavaScript e React
 - 🎮 Amo Games e estou sempre buscando aprender a criar alguns :B
 - 💬 Fique a vontade para me perguntar qualquer coisa
-- 📫 Pode entrar em contato comigo através de qualquer uma das minhas redes sociais a cima
+- 📫 Pode entrar em contato comigo através de qualquer uma das minhas redes sociais a cima.
 
 ### 💻 Ferramentas e Tecnologias:
 
