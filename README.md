@@ -24,7 +24,7 @@
 
 ### Bem vindo ao meu perfil GitHub 👋
 
-Oiee, tenho 28 anos, sou de Cosmopólis/SP. Estou cursando Gestão da Qualidade , sou formada em Tecnico em Mecatrônica . Estou aprendendo mais sobre esse universo da programação , e estou amando . E Sou apaixonada por games e coelhos fofinhos ❤️🐰 
+Atualmente cursando Engenharia da Qualidade. Tenho uma paixão por resolver problemas complexos e melhorar processos, o que me levou a seguir uma carreira em Engenharia da Qualidade. eEstou animada para explorar como a programação pode ser aplicada na engenharia da qualidade para melhorar a eficiência e a eficácia dos processos.
 
 ### ⭐  Dev em Desenvolvimento:
 
