@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EFC3CA&height=120&section=header"/>
 
 <img align="right" width="200px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/111747423/236514140-2c629ddc-ad59-40be-9ea4-e587c6045b05.png">
 
@@ -25,10 +25,6 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 Oiee, tenho 28 anos, sou de Cosmopólis/SP. Estou cursando Gestão da Qualidade , sou formada em Tecnico em Mecatrônica . Estou aprendendo mais sobre esse universo da programação , e estou amando . E Sou apaixonada por games e coelhos fofinhos ❤️🐰 
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/111747423/236520086-e2a95f4e-6eec-49fc-9c7c-731c028361aa.png" width="350">
-</p>
 
 ### ⭐  Dev em Desenvolvimento:
 
@@ -60,4 +56,4 @@ Oiee, tenho 28 anos, sou de Cosmopólis/SP. Estou cursando Gestão da Qualidade 
 </a>
 </p>
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EFC3CA&height=120&section=footer"/>
