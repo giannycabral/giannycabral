@@ -9,10 +9,10 @@
  
  <h1 align="center">Regiane Cabral</h1>
 <div align="center"> 
-<a href="https://instagram.com/giannycabral" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "https://twitter.com/giannycabral?t=Rrra7Xp5oH5j4bEX9q60xA&s=09"> <img src="https://img.shields.io/badge/-Twitter-%23333?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/giannycabral" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+<a href = "https://twitter.com/giannycabral?t=Rrra7Xp5oH5j4bEX9q60xA&s=09"> <img src="https://img.shields.io/badge/-X-%23333?style=for-the-badge&logo=twitter&logoColor=white" style="border-radius: 30px"target="_blank"></a>
 <a href="https://www.linkedin.com/in/regiane-jesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
- <a href="https://www.twitch.tv/giannycabral" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://www.twitch.tv/giannycabral" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" style="border-radius: 30px"target="_blank"></a>
  </div>
  
   
