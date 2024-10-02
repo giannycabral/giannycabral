@@ -5,7 +5,7 @@
 
 <div dsplay="inline-block">
  
- <h1 align="center">Regiane Cabral</h1><img align="right" width="200px" style="margin-top:-20px" src="assets/merged.gif">
+ <h1 align="center">Regiane Cabral</h1><img align="right" width="200px" border="radius" style="margin-top:-20px" src="assets/merged.gif">
 <div align="center"> 
 <a href="https://instagram.com/giannycabral" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 <a href = "https://twitter.com/giannycabral?t=Rrra7Xp5oH5j4bEX9q60xA&s=09"> <img src="https://img.shields.io/badge/-X-%23333?style=for-the-badge&logo=twitter&logoColor=white" style="border-radius: 30px"target="_blank"></a>
