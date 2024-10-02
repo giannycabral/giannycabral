@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EFC3CA&height=120&section=header"/>
 
-<img align="right" width="200px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/111747423/236514140-2c629ddc-ad59-40be-9ea4-e587c6045b05.png">
+<img align="right" width="200px" style="margin-top:-20px" src="[https://user-images.githubusercontent.com/111747423/236514140-2c629ddc-ad59-40be-9ea4-e587c6045b05.png](https://github.com/giannycabral/giannycabral/blob/main/merged.gif?raw=true)">
 
 </br>
 </br>
