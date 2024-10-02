@@ -1,5 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EFC3CA&height=120&section=header"/>
-
 <img align="right" width="200px" style="margin-top:-20px" src="assets/merged.gif">
 
 </br>
