@@ -24,7 +24,7 @@
 
 ### Bem vindo ao meu perfil GitHub 👋
 
-Atualmente cursando Engenharia da Qualidade. Tenho uma paixão por resolver problemas complexos e melhorar processos, o que me levou a seguir uma carreira em Engenharia da Qualidade. eEstou animada para explorar como a programação pode ser aplicada na engenharia da qualidade para melhorar a eficiência e a eficácia dos processos.
+ Tenho uma paixão por resolver problemas complexos e melhorar processos, o que me levou a seguir uma carreira em Engenharia da Qualidade. Estou animada para explorar como a programação pode ser aplicada na engenharia da qualidade para melhorar a eficiência e a eficácia dos processos.
 
 ### ⭐  Dev em Desenvolvimento:
 
@@ -35,13 +35,14 @@ Atualmente cursando Engenharia da Qualidade. Tenho uma paixão por resolver prob
 
 ### 💻 Ferramentas e Tecnologias:
 
-<img width="300px" align="right" src="https://user-images.githubusercontent.com/111747423/236521739-415a1b24-7cfa-4a78-9577-50c4fbf5a33b.png">
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "REACT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Vscode](https://img.shields.io/badge/CSS3-007ACC?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=2CA5E0)
 
 
 ### :octocat: GitHub Statitcs :
