@@ -5,8 +5,8 @@
 
 <div dsplay="inline-block">
 
- <h1 align="center" style="font-size: 50">Regiane Cabral</h1>
-<div align="center"> <img align="right" width="200px" style="margin-top:-20px; border-radius: 50% ; border: 5px solid #FFB6C1" target="_blank"  src="assets/merged.gif">
+ <h1 align="center" style="font-size: 40">Regiane Cabral</h1>
+<div align="center"> <img align="right" width="150px" style="margin-top:-20px; border-radius: 50% ; border: 5px solid #FFB6C1" target="_blank"  src="assets/merged.gif">
 <a href="https://instagram.com/giannycabral" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 <a href = "https://twitter.com/giannycabral?t=Rrra7Xp5oH5j4bEX9q60xA&s=09"> <img src="https://img.shields.io/badge/-Twitter-%23333?style=for-the-badge&logo=twitter&logoColor=white" style="border-radius: 30px "target="_blank"></a>
 <a href="https://www.linkedin.com/in/regiane-jesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
@@ -20,18 +20,18 @@
   </br>
 </br>
 
-## 👋 Bem vindo ao meu perfil
+### 👋 Bem vindo ao meu perfil
 
  Tenho uma paixão por resolver problemas complexos e melhorar processos, o que me levou a seguir uma carreira em Engenharia da Qualidade. Estou animada para explorar como a programação pode ser aplicada na engenharia da qualidade para melhorar a eficiência e a eficácia dos processos.
 
-## ⭐  Dev em Desenvolvimento:
+### ⭐  Dev em Desenvolvimento:
 
 - 🌱 Atualmente estou aprendendo as tecnologias HTML, CSS, JavaScript e React
 - 🎮 Amo Games e estou sempre buscando aprender a criar alguns :B
 - 💬 Fique a vontade para me perguntar qualquer coisa
 - 📫 Pode entrar em contato comigo através de qualquer uma das minhas redes sociais a cima.
 
-## 💻 Ferramentas e Tecnologias:
+### 💻 Ferramentas e Tecnologias:
 
 <img src="https://skillicons.dev/icons?i=vscode,html,css,js,angular,ts,nodejs,react,git,github,&theme=dark" />
 
