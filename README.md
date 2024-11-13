@@ -26,7 +26,7 @@
 
 ### ⭐  Dev em Desenvolvimento:
 
-- 🌱 Atualmente estou aprendendo as tecnologias HTML, CSS, JavaScript e React
+- 🌱 Atualmente estou cursando Ciencia da Computação 
 - 🎮 Amo Games e estou sempre buscando aprender a criar alguns :B
 - 💬 Fique a vontade para me perguntar qualquer coisa
 - 📫 Pode entrar em contato comigo através de qualquer uma das minhas redes sociais a cima.
