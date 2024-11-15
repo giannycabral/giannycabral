@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D0BCB3&height=120&section=header"/>
 
 </br>
 </br>
@@ -26,8 +26,9 @@
 
 ### ⭐  Dev em Desenvolvimento:
 
-- 🌱 Atualmente estou cursando Ciencia da Computação 
-- 🎮 Amo Games e estou sempre buscando aprender a criar alguns :B
+- 🌱 Atualmente estou cursando Ciencia da Computação
+- 🐼 Interesse na Cultura e Língua Chinesa
+- 🎮 Amo Games e estou sempre buscando aprender a criar alguns
 - 💬 Fique a vontade para me perguntar qualquer coisa
 - 📫 Pode entrar em contato comigo através de qualquer uma das minhas redes sociais a cima.
 
@@ -48,4 +49,4 @@
 
 <div><br />
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D0BCB3&height=120&section=footer"/>
