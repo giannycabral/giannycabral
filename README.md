@@ -7,10 +7,10 @@
 
  <h1 align="center" style="font-size: 40">Regiane Cabral</h1>
 <div align="center"> <img align="right" width="150px" style="margin-top:-20px; border-radius: 50% ; border: 5px solid #FFB6C1" target="_blank"  src="assets/merged.gif">
-<a href="https://instagram.com/giannycabral" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-<a href = "https://twitter.com/giannycabral?t=Rrra7Xp5oH5j4bEX9q60xA&s=09"> <img src="https://img.shields.io/badge/-Twitter-%23333?style=for-the-badge&logo=twitter&logoColor=white" style="border-radius: 30px "target="_blank"></a>
-<a href="https://www.linkedin.com/in/regiane-jesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
- <a href="https://www.twitch.tv/giannycabral" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" style="border-radius: 30px"target="_blank"></a>
+<a href="https://instagram.com/giannycabral" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" align="center" style="border-radius: 30px" target="_blank"></a>
+<a href="https://www.linkedin.com/in/regiane-jesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+align="center" style="border-radius: 30px" target="_blank"></a>
+ <a href="https://www.twitch.tv/giannycabral" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" align="center" style="border-radius: 30px"target="_blank"></a>
  </div>
  
   
@@ -26,15 +26,15 @@
 
 ### ⭐  Dev em Desenvolvimento:
 
-- 🌱 Atualmente estou cursando Ciencia da Computação
+- 🌱 Cursando Ciencia da Computação
 - 🐼 Interesse na Cultura e Língua Chinesa
 - 🎮 Amo Games e estou sempre buscando aprender a criar alguns
-- 💬 Fique a vontade para me perguntar qualquer coisa
+- 👩🏽‍💻 Atualmente estou aprendendo as Linguagens Java & C 
 - 📫 Pode entrar em contato comigo através de qualquer uma das minhas redes sociais a cima.
 
 ### 💻 Ferramentas e Tecnologias:
 
-<img src="https://skillicons.dev/icons?i=vscode,html,css,js,angular,ts,nodejs,react,git,github,&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,html,css,js,c,java,nodejs,git,github,&theme=dark" />
 
 ## 📈 GitHub Statitcs :
 
