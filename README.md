@@ -29,7 +29,7 @@ align="center" style="border-radius: 30px" target="_blank"></a>
 - 🌱 Cursando Ciencia da Computação
 - 🐼 Interesse na Cultura e Língua Chinesa
 - 🎮 Amo Games e estou sempre buscando aprender a criar alguns
-- 👩🏽‍💻 Atualmente estou aprendendo as Linguagens Java & C 
+- 👩🏽‍💻 Atualmente estou aprendendo as Linguagens Java & C+
 - 📫 Pode entrar em contato comigo através de qualquer uma das minhas redes sociais a cima.
 
 ### 💻 Ferramentas e Tecnologias:
