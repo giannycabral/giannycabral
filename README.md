@@ -22,7 +22,7 @@ align="center" style="border-radius: 30px" target="_blank"></a>
 
 ### 👋 Bem vindo ao meu perfil
 
- Tenho uma paixão por resolver problemas complexos e melhorar processos, o que me levou a seguir uma carreira em Engenharia da Qualidade. Estou animada para explorar como a programação pode ser aplicada na engenharia da qualidade para melhorar a eficiência e a eficácia dos processos.
+ Tenho uma paixão por resolver problemas complexos e melhorar processos, o que me levou a seguir uma carreira em Engenharia da Qualidade. Estou animada para explorar como a programação pode ser aplicada na aréa para melhorar a eficiência e a eficácia dos processos.
 
 ### ⭐  Dev em Desenvolvimento:
 
