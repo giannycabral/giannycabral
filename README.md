@@ -34,8 +34,8 @@ Tenho uma paixão por resolver problemas complexos e melhorar processos, especia
 ---
 
 ## 🛠️ Ferramentas e Tecnologias
-- **Linguagens:** <img src="https://skillicons.dev/icons?i=html,css,js,c,java,nodejs&theme=dark" />
-- **Ferramentas:** <img src="https://skillicons.dev/icons?i=vscode,git,github,&theme=dark" /> 
+- **Que tenho conhecimento:** <img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github,nodejs&theme=dark" />
+- **Que estou aprendendo:** <img src="https://skillicons.dev/icons?i=java,react,c,python,&theme=dark" /> 
 - **Outros:** APIs, Design Responsivo, Testes de Qualidade  
 
 ---
