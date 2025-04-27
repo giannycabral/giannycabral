@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D0BCB3&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f5b7b1&height=120&section=header"/>
 
 </br>
 </br>
@@ -40,11 +40,13 @@ Tenho uma paixão por resolver problemas complexos e melhorar processos, especia
 
 ---
 ## 📊 Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=giannycabral&show_icons=true&theme=radical)
 
-  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giannycabral&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+<div align="center">
+  <a href="https://github.com/giannycabral">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=giannycabral&show_icons=true&theme=midnight-pink&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giannycabral&layout=compact&langs_count=7&theme=midnight-pink"/>
+</div>
 
----
-<div><br />
+<br />
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D0BCB3&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f5b7b1&height=120&section=footer"/>
