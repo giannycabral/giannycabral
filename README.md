@@ -1,16 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f5b7b1&height=120&section=header"/>
-
-</br>
-</br>
 
 <div dsplay="inline-block">
 
  <h1 align="center" style="font-size: 40">👋 Olá, eu sou a Regiane </h1>
-<div align="center"> <img align="right" width="150px" style="margin-top:-20px; border-radius: 50% ; border: 5px solid #FFB6C1" target="_blank"  src="assets/merged.gif">
+ <div align="center">
 <a href="https://instagram.com/giannycabral" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" align="center" style="border-radius: 30px" target="_blank"></a>
 <a href="https://www.linkedin.com/in/regiane-jesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
 align="center" style="border-radius: 30px" target="_blank"></a>
  <a href="https://www.twitch.tv/giannycabral" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" align="center" style="border-radius: 30px "target="_blank"></a>
+ <a href="https://x.com/giannycabral" target="_blank"><img src="https://img.shields.io/badge/Twitter%20-000?style=for-the-badge&logo=x&logoColor=white" align="center" style="border-radius: 30px "target="_blank"></a>
  </div>
  
   
@@ -34,7 +31,7 @@ Tenho uma paixão por resolver problemas complexos e melhorar processos, especia
 ---
 
 ## 🛠️ Ferramentas e Tecnologias
-- **Que tenho conhecimento:** <img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github,nodejs&theme=dark" />
+- **Que tenho conhecimento:** <img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github,nodejs&theme=dark" /><br>
 - **Que estou aprendendo:** <img src="https://skillicons.dev/icons?i=java,react,c,python,&theme=dark" /> 
 - **Outros:** APIs, Design Responsivo, Testes de Qualidade  
 
@@ -48,5 +45,3 @@ Tenho uma paixão por resolver problemas complexos e melhorar processos, especia
 </div>
 
 <br />
-
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f5b7b1&height=120&section=footer"/>
