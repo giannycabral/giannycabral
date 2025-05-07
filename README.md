@@ -1,6 +1,6 @@
 <div align="center">
  
-![Header](./assets/bycabral.gif)
+![Header](./assets/bygiannycabral.gif)
 
  ---
 <div align="center">
