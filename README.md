@@ -19,7 +19,7 @@ align="center" style="border-radius: 30px" target="_blank"></a>
   </br>
 </br>
 
-### 💻Desenvolvedora em desenvolvimento
+## 💻Desenvolvedora em desenvolvimento
 
 Tenho uma paixão por resolver problemas complexos e melhorar processos, especialmente na área de **Engenharia da Qualidade**. Estou explorando como a programação pode transformar a eficiência e a eficácia em diversos cenários.
 
@@ -33,9 +33,14 @@ Tenho uma paixão por resolver problemas complexos e melhorar processos, especia
 ---
 
 ## 🛠️ Ferramentas e Tecnologias
-- **Que tenho conhecimento:** <img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github,nodejs&theme=dark" /><br>
-- **Que estou aprendendo:** <img src="https://skillicons.dev/icons?i=java,react,c,python,&theme=dark" /> 
-- **Outros:** APIs, Design Responsivo, Testes de Qualidade  
+<div align="center">
+ 
+ **Que tenho conhecimento:** <br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github,nodejs&theme=dark" /><br>
+**Que estou aprendendo:** <br>
+  <img src="https://skillicons.dev/icons?i=java,react,c,python,&theme=dark" /> <br>
+**Outros:** <br> APIs, Design Responsivo, Testes de Qualidade  
+</div>
 
 ---
 ## 📊 Estatísticas
