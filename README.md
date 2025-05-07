@@ -9,7 +9,7 @@
 align="center" style="border-radius: 30px" target="_blank"></a>
  <a href="https://www.twitch.tv/giannycabral" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" align="center" style="border-radius: 30px "target="_blank"></a>
  <a href="https://x.com/giannycabral" target="_blank"><img src="https://img.shields.io/badge/Twitter%20-000?style=for-the-badge&logo=x&logoColor=white" align="center" style="border-radius: 30px "target="_blank"></a>
- <a href="https://outlook.live.com/mail/0/" target="_blank"><img src="https://img.shields.io/badge/Outlook%20-%230077B5?style=for-the-badge&logo=outlook&logoColor=white" align="center" style="border-radius: 30px "target="_blank"></a>
+
 
  
   
