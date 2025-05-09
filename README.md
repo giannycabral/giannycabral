@@ -8,12 +8,9 @@ align="center" style="border-radius: 30px" target="_blank"></a>
  <a href="https://www.twitch.tv/giannycabral" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" align="center" style="border-radius: 30px "target="_blank"></a>
  <a href="https://x.com/giannycabral" target="_blank"><img src="https://img.shields.io/badge/Twitter%20-000?style=for-the-badge&logo=x&logoColor=white" align="center" style="border-radius: 30px "target="_blank"></a>
   </br>
-
-![line](./assets/lineBar.png) 
- 
+  
 ![Header](./assets/itsme.gif)
 ![body](./assets/aboutme.png)
 <a href="https://github.com/giannycabral">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=giannycabral&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giannycabral&layout=compact&langs_count=7&theme=jolly"/>
-![line](./assets/lineBar.png)
