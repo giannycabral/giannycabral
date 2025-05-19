@@ -14,3 +14,5 @@ align="center" style="border-radius: 30px" target="_blank"></a>
 <a href="https://github.com/giannycabral">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=giannycabral&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giannycabral&layout=compact&langs_count=7&theme=jolly"/>
+
+![](https://komarev.com/ghpvc/?username=giannycabral&color=ff69b4)
