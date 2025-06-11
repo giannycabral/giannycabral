@@ -1,6 +1,3 @@
-
-<div align="center">
-
 <p align="center">
   <a href="https://instagram.com/giannycabral" target="_blank">
     <img src="./assets/4.png" alt="Instagram" width="180" style="border-radius: 30px; vertical-align: middle;" />
@@ -15,6 +12,8 @@
     <img src="./assets/1.png" alt="Twitter" width="180" style="border-radius: 30px; vertical-align: middle;" />
   </a>
 </p>
+
+<div align="center">
 
   </br> 
   
