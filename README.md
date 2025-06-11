@@ -1,12 +1,21 @@
 
 <div align="center">
 
- <div align="center">
-<a href="https://instagram.com/giannycabral" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" align="center" style="border-radius: 30px" target="_blank"></a>
-<a href="https://www.linkedin.com/in/regiane-jesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-align="center" style="border-radius: 30px" target="_blank"></a>
- <a href="https://www.twitch.tv/giannycabral" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" align="center" style="border-radius: 30px "target="_blank"></a>
- <a href="https://x.com/giannycabral" target="_blank"><img src="https://img.shields.io/badge/Twitter%20-000?style=for-the-badge&logo=x&logoColor=white" align="center" style="border-radius: 30px "target="_blank"></a>
+<p align="center">
+  <a href="https://instagram.com/giannycabral" target="_blank">
+    <img src="./assets/4.png" alt="Instagram" width="180" style="border-radius: 30px; vertical-align: middle;" />
+  </a>
+  <a href="https://www.linkedin.com/in/regiane-jesus/" target="_blank">
+    <img src="./assets/3.png" alt="Linkedin" width="180" style="border-radius: 30px; vertical-align: middle;" />
+  </a>
+  <a href="https://www.twitch.tv/giannycabral" target="_blank">
+    <img src="./assets/2.png" alt="Twitch" width="180" style="border-radius: 30px; vertical-align: middle;" />
+  </a>
+  <a href="https://x.com/giannycabral" target="_blank">
+    <img src="./assets/1.png" alt="Twitter" width="180" style="border-radius: 30px; vertical-align: middle;" />
+  </a>
+</p>
+
   </br> 
   
 ![body](./assets/aboutmee.png)
