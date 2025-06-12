@@ -1,17 +1,18 @@
 <p align="center">
   <a href="https://instagram.com/giannycabral" target="_blank">
-    <img src="./assets/4.png" alt="Instagram" target="_blank" width="180" style="border-radius: 30px; vertical-align: middle;" />
+    <img src="./assets/4.png" alt="Instagram" width="180" style="border-radius: 30px; vertical-align: middle;" />
   </a>
   <a href="https://www.linkedin.com/in/regiane-jesus/" target="_blank">
-    <img src="./assets/3.png" alt="Linkedin" target="_blank" width="180" style="border-radius: 30px; vertical-align: middle;" />
+    <img src="./assets/3.png" alt="Linkedin" width="180" style="border-radius: 30px; vertical-align: middle;" />
   </a>
   <a href="https://www.twitch.tv/giannycabral" target="_blank">
-    <img src="./assets/2.png" alt="Twitch" target="_blank" width="180" style="border-radius: 30px; vertical-align: middle;" />
+    <img src="./assets/2.png" alt="Twitch" width="180" style="border-radius: 30px; vertical-align: middle;" />
   </a>
   <a href="https://x.com/giannycabral" target="_blank">
-    <img src="./assets/1.png" alt="Twitter" target="_blank" width="180" style="border-radius: 30px; vertical-align: middle;" />
+    <img src="./assets/1.png" alt="Twitter" width="180" style="border-radius: 30px; vertical-align: middle;" />
   </a>
 </p>
+
 
 <div align="center">
 
