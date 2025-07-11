@@ -6,8 +6,6 @@
     <img src="https://img.shields.io/badge/Linkedin-0D597F.svg?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
   <a href="https://www.twitch.tv/giannycabral" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" /></a>
-  <a href="https://x.com/giannycabral" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
 </p>
  </br>   
  
