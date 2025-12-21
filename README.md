@@ -17,7 +17,7 @@ Estou unindo minha experiência profissional em Qualidade Industrial com meus no
 ### ✨ Um pouquinho sobre mim ✨
 
 - 🎀 **Na faculdade:** Estudando sobre Redes Neurais e IA (coisas de cientista maluco fofo!).
-- 💻 **Codando:** Projetos com **JavaScript**, **Node.js** e brincando com a **API do Gemini**.
+- 💻 **Codando:** Projetos com **JavaScript**, **Node.js**, **Python** e brincando com a **API do Gemini**.
 - 🏭 **Background:** Trago uma bagagem sólida em **Qualidade Industrial**, o que me deu superpoderes de organização e análise.
 - 🎮 **Diversão:** Criador do *Fly Fly Potter* e outros projetos mágicos.
 
