@@ -1,8 +1,9 @@
-<h1 align="center">Oii, eu sou Regiane Cabral!<img src="https://i.pinimg.com/originals/c6/1e/95/c61e95e0bf087996bfe4655019d9a721.gif" width="80" alt="programando"></h1>
+<h1 align="center">Olá , seja bem vindo(a)!<img src="https://i.pinimg.com/originals/c6/1e/95/c61e95e0bf087996bfe4655019d9a721.gif" width="80" alt="programando"></h1>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/7b/b9/e9/7bb9e98e15aa485853e4b2647d2316af.gif" width="200" alt="programando">
-</p>
+<table align="center"> <tr> <td align="center"> <a href="https://github.com/giannycabral"> <img src="https://github.com/giannycabral/panda-pet-game/blob/main/img/itsmee.jpg?raw=true" width="100px;" alt="Foto da Regiane"/>
+
+
+<sub><b>Regiane Cabral</b></sub> </a> </td> </tr> </table>
 
 <p align="center">
  ✨ Sou estudante de Computação em transição de carreira, apaixonado por desenvolvimento no ecossistema JavaScript e Python.✨
