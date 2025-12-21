@@ -1,4 +1,4 @@
-<h1 align="center">Oii, eu sou Regiane Cabral! (´｡• ᵕ •｡`) ♡</h1>
+<h1 align="center">Oii, eu sou Regiane Cabral!<img src="https://i.pinimg.com/originals/c6/1e/95/c61e95e0bf087996bfe4655019d9a721.gif" width="80" alt="programando"></h1>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/7b/b9/e9/7bb9e98e15aa485853e4b2647d2316af.gif" width="200" alt="programando">
@@ -45,6 +45,6 @@ Estou unindo minha experiência profissional em Qualidade Industrial com meus no
 ---
 <p align="center">
 ⭐️ <i>Se você gostou dos meus projetos, deixe uma estrelinha para me deixar feliz!</i> ⭐️<br>
-<img src="https://i.pinimg.com/originals/90/cb/fc/90cbfc6100f82866f640bb9f5dee93d7.gif" width="200" alt="Gato fofo programando">
+<img src="https://i.pinimg.com/originals/bd/ed/41/bded41ae9d15e19630362b91946fd9ea.gif" width="200" alt="Gato fofo piscando">
 
 </p>
