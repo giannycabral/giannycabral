@@ -15,17 +15,6 @@ Estou unindo minha experiência profissional em Qualidade Industrial com meus no
 
 ---
 
-### ✨ Um pouquinho sobre mim ✨
-
-- 🎀 **Na faculdade:** Estudando sobre Redes Neurais e IA (coisas de cientista maluco fofo!).
-- 💻 **Codando:** Projetos com **JavaScript**, **Node.js**, **Python** e brincando com a **API do Gemini**.
-- 🏭 **Background:** Trago uma bagagem sólida em **Qualidade Industrial**, o que me deu superpoderes de organização e análise.
-- 🎮 **Diversão:** Criador do *Fly Fly Potter* e outros projetos mágicos.
-
----
-
-### 🍭 Tech Stack & Ferramentas 🍭
-
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript Badge">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS Badge">
@@ -34,16 +23,6 @@ Estou unindo minha experiência profissional em Qualidade Industrial com meus no
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge">
 </div>
 
----
-
-### 📈 Minhas Estatísticas📈
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=giannycabral&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="150">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giannycabral&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" height="150">
-</p>
-
----
 <p align="center">
 ⭐️ <i>Se você gostou dos meus projetos, deixe uma estrelinha para me deixar feliz!</i> ⭐️<br>
 <img src="https://i.pinimg.com/originals/bd/ed/41/bded41ae9d15e19630362b91946fd9ea.gif" width="200" alt="Gato fofo piscando">
